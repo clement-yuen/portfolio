@@ -7,6 +7,7 @@ My name is Clement Yuen
 
 
 ## Projects
-### Project 1: XXXX [View](./project_page1.md)
+
+### - Job Applications Dashboard [View](./project_page1.md)
 
 ## Education
