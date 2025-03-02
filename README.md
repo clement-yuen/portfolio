@@ -1,4 +1,4 @@
-# Business / Data Analyst
+# Business Analyst / Data Analyst
 
 My name is Clement Yuen
 
