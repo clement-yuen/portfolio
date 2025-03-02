@@ -15,6 +15,7 @@ My name is Clement Yuen
 University of California, Davis
 
 B.S. in Managerial Economics
+
 Minor in Accounting
 
 Honors: summa cum laude
