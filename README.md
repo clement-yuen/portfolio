@@ -8,6 +8,6 @@ My name is Clement Yuen
 
 ## Projects
 
-### - Job Applications Dashboard [View](./project_page1.md)
+### 1. Job Applications Dashboard - [View](./project_page1.md)
 
 ## Education
