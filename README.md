@@ -7,7 +7,6 @@ My name is Clement Yuen
 
 
 ## Projects
-### 1. Project 1
-[Link to another page](./project_page1.md)
+### 1. Project 1:  [View Project](./project_page1.md)
 
 ## Education
