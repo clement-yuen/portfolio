@@ -5,7 +5,7 @@ plugins:
 
 title: Clement Yuen Clement Yuen
 description: blah blah blah
-logo: 
+logo: assets/logo.png
 show_downloads: true
 
 theme: jekyll-theme-minimal
