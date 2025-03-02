@@ -12,7 +12,7 @@ My name is Clement Yuen
 
 ## Education
 
-University of California, Davis
+University of California, Davis (2015 - 2019)
 
 B.S. in Managerial Economics
 
