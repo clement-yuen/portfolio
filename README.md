@@ -8,6 +8,6 @@ My name is Clement Yuen
 
 ## Projects
 ### 1. Project 1
-[Link to another page](./project_page1.html).
+[Link to another page](./project_page1.html)
 
 ## Education
