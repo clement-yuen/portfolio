@@ -1,6 +1,6 @@
 # Business Analyst / Data Analyst
 ## About Me
-- Versatile analyst with experience working in both private and government sectors
+- Versatile analyst with experience working in Big 4 accounting firm and the government sector
 
 - Passionate about data analytics, automation, and helping others
 
