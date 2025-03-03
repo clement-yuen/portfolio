@@ -1,6 +1,7 @@
 # Business Analyst / Data Analyst
-
-My name is Clement Yuen
+## About Me
+- Versatile analyst with experience working in both private and government sectors
+- Passionate about data analytics, automation, and helping others
 
 ## Projects
 
