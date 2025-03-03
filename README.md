@@ -1,11 +1,12 @@
 # Business Analyst / Data Analyst
 ## About Me
 - Versatile analyst with experience working in both private and government sectors
+
 - Passionate about data analytics, automation, and helping others
 
 ## Projects
 
-### 1. Job Applications Dashboard - [View](./project_page1.md)
+- Job Applications Dashboard - [View](./project_page1.md)
 
 
 
